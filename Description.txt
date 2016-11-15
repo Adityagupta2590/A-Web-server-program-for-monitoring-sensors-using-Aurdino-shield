@@ -1,0 +1,14 @@
+Tittle:Tittle: A Web server program for monitoring sensors using Aurdino shield
+
+
+Version:0.1
+
+e-mail: adityagupta2590@gmail.com
+
+Webside:https://sites.google.com/site/adityagupta2590/
+
+Liscense:MIT
+
+Software:arduino-1.6.12-windows.exe
+
+Hardware:Aurdino UNO
